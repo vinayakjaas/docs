@@ -16,6 +16,6 @@ Website:
 https://sb-translate-6atl.vercel.app/
 
 SorceCode:
-https://sb-translate-6atl.vercel.app/
+https://github.com/sunbird-cb/sb_translate
 
 
