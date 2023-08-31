@@ -2,46 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Content Translation Library
+Bhashini-Translation is a robust language translation library specifically designed to cater to the translation needs of Indian languages. Leveraging the power of artificial intelligence (AI), this library offers accurate and efficient translation services. Its primary purpose is to provide developers with a seamless way to integrate advanced language translation capabilities into their web applications. By utilizing Bhashini-Translation, developers can enhance their applications with multilingual support, enabling users to access content in different languages.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+One of the key features of Bhashini-Translation is its integration with the Bhashini API. The Bhashini API serves as the backend service that performs the actual translation tasks. It acts as an intermediary between the client-side application and the AI-powered translation engine. Developers can make API calls to the Bhashini API to request translations for different language pairs and texts.
 
-## Getting Started
+[Bhashini Api](https://bhashini.gitbook.io/bhashini-apis/). It seamlessly integrates with web frontends such as Vanilla JS, React, and Angular.  
+Bhashini follows [ISO-639 series](https://www.loc.gov/standards/iso639-2/php/code_list.php) of language codes.
 
-Get started by **creating a new site**.
+## Start 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Website:
+https://sb-translate-6atl.vercel.app/
 
-### What you'll need
+SorceCode:
+https://sb-translate-6atl.vercel.app/
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
